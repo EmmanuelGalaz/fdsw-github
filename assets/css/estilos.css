@@ -3,12 +3,14 @@ body {
 }
 
 /* Hero Section */
-
+header .parrafo_1 {
+  margin-right: 35px;
+  }
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  background-image: url("https://thumbs.dreamstime.com/z/collage-de-la-comida-34653003.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: left;
+  background-position: left;  
 }
 
 /* Mis trabajos */
